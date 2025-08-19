@@ -1,0 +1,12 @@
+{
+  "name": "devops-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "test-runner": "latest"
+  }
+}
